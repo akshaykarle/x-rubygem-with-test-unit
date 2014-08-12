@@ -1,1 +1,1 @@
-foo
+Nothing is impossible
